@@ -1,0 +1,5 @@
+site_name: Documentación del proyecto
+nav:
+  - Home: index.md
+  - Seccion de Credito: seccion_credito.md
+theme: readthedocs 
